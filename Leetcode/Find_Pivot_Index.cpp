@@ -22,6 +22,7 @@ public:
             if(leftSum == rightSum) {
                 index = i;
                 break;
+                
             }
         }
         return index;
